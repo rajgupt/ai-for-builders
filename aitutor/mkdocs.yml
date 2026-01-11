@@ -7,9 +7,27 @@ repo_name: rajgupt/ai-for-builders
 theme:
   name: material
   palette:
-    scheme: slate                # Dark theme for developers
-    primary: deep purple
-    accent: cyan
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   font:
     text: Inter
     code: JetBrains Mono         # Monospace for code blocks
