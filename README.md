@@ -35,7 +35,7 @@ Make AI education accessible to anyone worldwide with:
 
 ## 🚀 Quick Start
 
-Visit the course website: **[Coming Soon]**
+Visit the course website: **[AI Skills Hub](https://rajgupt.github.io/ai-for-builders/)**
 
 Or run notebooks directly:
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajgupt/ai-for-builders/blob/main/aitutor/notebooks/quickstart.ipynb)
@@ -73,17 +73,16 @@ ai-for-builders/
 1. Clone the repository:
 ```bash
 git clone https://github.com/rajgupt/ai-for-builders.git
-cd ai-for-builders
+cd ai-for-builders/aitutor
 ```
 
 2. Install dependencies:
 ```bash
-pip install mkdocs-material
+pip install -r requirements.txt
 ```
 
 3. Run local server:
 ```bash
-cd aitutor
 mkdocs serve
 ```
 
