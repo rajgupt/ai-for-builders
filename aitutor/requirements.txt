@@ -1,0 +1,12 @@
+# MkDocs and Material Theme
+mkdocs==1.5.3
+mkdocs-material==9.5.3
+
+# Plugins
+mkdocs-minify-plugin==0.7.1
+
+# Markdown Extensions
+pymdown-extensions==10.7
+
+# Additional utilities
+markdown==3.5.1

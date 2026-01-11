@@ -1,0 +1,65 @@
+site_name: AI Skills Hub
+site_description: Free AI education for developers with GPU access
+site_url: https://rajgupt.github.io/ai-for-builders
+repo_url: https://github.com/rajgupt/ai-for-builders
+repo_name: rajgupt/ai-for-builders
+
+theme:
+  name: material
+  palette:
+    scheme: slate                # Dark theme for developers
+    primary: deep purple
+    accent: cyan
+  font:
+    text: Inter
+    code: JetBrains Mono         # Monospace for code blocks
+  features:
+    - navigation.instant         # SPA-like navigation
+    - navigation.tracking        # URL updates on scroll
+    - navigation.tabs            # Top-level tabs
+    - search.suggest             # Search autocomplete
+    - content.code.copy          # Copy button on code blocks
+    - content.code.annotate      # Code annotations
+
+extra_css:
+  - stylesheets/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rajgupt/ai-for-builders
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX       # Add GA4 tracking ID
+
+nav:
+  - Home: index.md
+  - Courses:
+    - Foundation: courses/foundation/index.md
+    - Core: courses/core/index.md
+    - Advanced: courses/advanced/index.md
+  - Projects: projects/index.md
+  - Resources: resources/index.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
