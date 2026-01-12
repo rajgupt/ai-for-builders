@@ -48,7 +48,7 @@ extra:
       link: https://github.com/rajgupt/ai-for-builders
   analytics:
     provider: google
-    property: G-XXXXXXXXXX       # Add GA4 tracking ID
+    property: G-Y44J2WZ2JL       # Add GA4 tracking ID
 
 nav:
   - Home: index.md
