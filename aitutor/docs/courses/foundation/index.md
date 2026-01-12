@@ -2,6 +2,29 @@
 
 Welcome to the Foundation Track! This 7-week program is designed for developers who are new to AI and machine learning.
 
+---
+
+## 🚀 Start Learning Now
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 8px; margin: 1.5rem 0;">
+  <h3 style="color: white; margin-top: 0;">Python for AI</h3>
+  <p style="color: rgba(255,255,255,0.9); font-size: 1.1rem;">
+    ✅ Available Now | 7 Lessons + Mini Project | 2 Weeks
+  </p>
+  <p style="color: rgba(255,255,255,0.95); margin-bottom: 1.5rem;">
+    Learn Python essentials for AI development, from basics to NumPy. Build a MNIST digit classifier!
+  </p>
+  <a href="python-for-ai/" style="background: white; color: #667eea; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block;">
+    Start Python for AI →
+  </a>
+</div>
+
+**Coming Soon:**
+- 📐 Math Essentials (Weeks 3-4)
+- 🤖 Introduction to ML (Weeks 5-7)
+
+---
+
 ## What You'll Learn
 
 This track covers the essential building blocks for AI development:
@@ -38,23 +61,6 @@ Each module includes:
 - 🧪 Hands-on coding exercises
 - 🎯 Weekly mini-projects
 - ✅ Knowledge assessments
-
-## Available Courses
-
-### [Python for AI](python-for-ai/)
-**Status:** ✅ Available Now
-**Duration:** 2 weeks
-**Lessons:** 7 modules + Mini Project
-
-Learn Python essentials for AI development, from basics to NumPy. Includes interactive Colab notebooks and a hands-on MNIST digit classification project.
-
-[Start Python for AI →](python-for-ai/)
-
----
-
-**Coming Soon:**
-- Math Essentials (Weeks 3-4)
-- Introduction to ML (Weeks 5-7)
 
 ## Learning Path
 
