@@ -1,5 +1,9 @@
 # Python for AI Mini Course
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="assets/python-mini-course.png" alt="Python for AI Mini Course" style="max-width: 400px; width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</div>
+
 Welcome to **Python for AI** - a hands-on, beginner-friendly course designed specifically for aspiring AI/ML engineers. This course focuses exclusively on Python concepts that are **must-haves** for AI work, cutting out general programming topics that aren't immediately relevant to building AI systems.
 
 ## Why This Course is Different

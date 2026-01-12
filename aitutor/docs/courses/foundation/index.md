@@ -6,17 +6,22 @@ Welcome to the Foundation Track! This 7-week program is designed for developers 
 
 ## 🚀 Start Learning Now
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 8px; margin: 1.5rem 0;">
-  <h3 style="color: white; margin-top: 0;">Python for AI</h3>
-  <p style="color: rgba(255,255,255,0.9); font-size: 1.1rem;">
-    ✅ Available Now | 7 Lessons + Mini Project | 2 Weeks
-  </p>
-  <p style="color: rgba(255,255,255,0.95); margin-bottom: 1.5rem;">
-    Learn Python essentials for AI development, from basics to NumPy. Build a MNIST digit classifier!
-  </p>
-  <a href="python-for-ai/" style="background: white; color: #667eea; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block;">
-    Start Python for AI →
+<div style="display: grid; grid-template-columns: 300px 1fr; gap: 2rem; align-items: center; margin: 2rem 0;">
+  <a href="python-for-ai/" style="display: block; transition: transform 0.2s;">
+    <img src="python-for-ai/assets/python-mini-course.png" alt="Python for AI Mini Course" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: pointer;" />
   </a>
+  <div>
+    <h3 style="margin-top: 0; color: #667eea;">Python for AI</h3>
+    <p style="font-size: 1.1rem; color: #666; margin: 0.5rem 0;">
+      ✅ Available Now | 7 Lessons + Mini Project | 2 Weeks
+    </p>
+    <p style="margin: 1rem 0 1.5rem 0;">
+      Learn Python essentials for AI development, from basics to NumPy. Build a MNIST digit classifier with hands-on Colab notebooks!
+    </p>
+    <a href="python-for-ai/" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: bold; display: inline-block;">
+      Start Python for AI →
+    </a>
+  </div>
 </div>
 
 **Coming Soon:**
