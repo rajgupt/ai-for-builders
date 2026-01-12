@@ -39,11 +39,22 @@ Each module includes:
 - 🎯 Weekly mini-projects
 - ✅ Knowledge assessments
 
-## Get Started
+## Available Courses
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajgupt/ai-for-builders/blob/main/aitutor/notebooks/foundation/)
+### [Python for AI](python-for-ai/)
+**Status:** ✅ Available Now
+**Duration:** 2 weeks
+**Lessons:** 7 modules + Mini Project
 
-**Coming Soon:** Detailed lesson modules are being developed. Check back soon or [watch the repository](https://github.com/rajgupt/ai-for-builders) for updates!
+Learn Python essentials for AI development, from basics to NumPy. Includes interactive Colab notebooks and a hands-on MNIST digit classification project.
+
+[Start Python for AI →](python-for-ai/)
+
+---
+
+**Coming Soon:**
+- Math Essentials (Weeks 3-4)
+- Introduction to ML (Weeks 5-7)
 
 ## Learning Path
 

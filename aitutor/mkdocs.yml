@@ -54,6 +54,16 @@ nav:
   - Home: index.md
   - Courses:
     - Foundation: courses/foundation/index.md
+    - Python for AI:
+      - Overview: courses/foundation/python-for-ai/index.md
+      - Basics: courses/foundation/python-for-ai/01-basics.md
+      - Lists: courses/foundation/python-for-ai/02-lists.md
+      - Dictionaries: courses/foundation/python-for-ai/03-dictionaries.md
+      - Loops: courses/foundation/python-for-ai/04-loops.md
+      - NumPy: courses/foundation/python-for-ai/05-numpy.md
+      - Functions: courses/foundation/python-for-ai/06-functions.md
+      - Mini Project: courses/foundation/python-for-ai/07-mini-project.md
+      - Quizzes: courses/foundation/python-for-ai/quizzes.md
     - Core: courses/core/index.md
     - Advanced: courses/advanced/index.md
   - Projects: projects/index.md
