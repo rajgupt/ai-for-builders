@@ -53,6 +53,7 @@ extra:
 nav:
   - Home: index.md
   - Courses:
+    - All Courses: courses/index.md
     - Foundation: courses/foundation/index.md
     - Python for AI:
       - Overview: courses/foundation/python-for-ai/index.md
